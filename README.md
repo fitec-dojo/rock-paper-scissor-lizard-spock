@@ -1,7 +1,7 @@
 Rock-Paper-Scissor-Lizard-Spock Dojo Challenge
 ==============================================
 
->rock-paper-scissors-lizard-Spock é uma expensão do clássico jogo do padre-papel-tesoura. Ele opera no mesmo princípio básico mas inclui duas armas adicionais: o lagarto e o Spock.
+>rock-paper-scissors-lizard-spock é uma expensão do clássico jogo do padre-papel-tesoura. Ele opera no mesmo princípio básico mas inclui duas armas adicionais: o lagarto e o Spock.
 
 Regras
 ----------------
