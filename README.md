@@ -38,6 +38,8 @@ Sugestões
 * Enviar no invite links de referência TDD, incluir TDD como sugestão de palestra as sexta
 * Trazer outras linguagens (sessões de C++ também) Julio
 * Usar o Java 8
+* Eleger um ou dois moderadores para controlar conversas paralelas ou comentários fora de horário
+* Desligar os atalhos que viram a tela
 
 **Referências**: 
 * http://en.wikipedia.org/wiki/Rock-paper-scissors-lizard-Spock
