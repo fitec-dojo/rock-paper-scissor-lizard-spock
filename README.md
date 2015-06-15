@@ -45,6 +45,7 @@ Implementações
 ----------
 * https://github.com/rafaelune/rock-paper-scissor-lizard-spock-dojo
 * https://github.com/toshiakife/Spockenpo 
+* https://github.com/luanjr/jokenSpock
 
 
 **Referências**: 
