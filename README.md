@@ -41,6 +41,12 @@ Sugestões
 * Eleger um ou dois moderadores para controlar conversas paralelas ou comentários fora de horário
 * Desligar os atalhos que viram a tela
 
+Implementações
+----------
+* https://github.com/rafaelune/rock-paper-scissor-lizard-spock-dojo
+* https://github.com/toshiakife/Spockenpo 
+
+
 **Referências**: 
 * http://en.wikipedia.org/wiki/Rock-paper-scissors-lizard-Spock
 * https://www.youtube.com/watch?v=_PUEoDYpUyQ
